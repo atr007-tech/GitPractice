@@ -6,4 +6,3 @@ first point
 second
 
 third
-fourth
